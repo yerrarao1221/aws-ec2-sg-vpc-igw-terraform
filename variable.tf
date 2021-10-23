@@ -1,0 +1,10 @@
+variable "ami_type" {}
+variable "region_name" {}
+variable "access_key" {}
+variable "secret_key" {}
+variable "ec2_instanceName" {}
+variable "instanceType" {}
+variable "key_pair_value" {}
+variable "alb_zone" {}
+variable "vpcName" {}
+variable "pub-subnetName" {}
